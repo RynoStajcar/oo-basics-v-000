@@ -1,1 +1,6 @@
-# Make your shoe class here!
+class Shoe
+
+  def inicialize(brand)
+    
+  end
+end
